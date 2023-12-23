@@ -16,6 +16,10 @@
 * Praktikum 11 : Fungsi Rekursif `231031084-praktikum-adit-c11.py`
 * Praktikum 12 : Fungsi Rekursif `231031084-praktikum-adit-c12.py`
 * Praktikum 13 : Fungsi Rekursif Fibonacci `231031084-praktikum-adit-c13.py`
+* Latihan 1 : Percabangan If Else `231031084-adit-latihan1`
+* Latihan 2 : Percabangan If Else `231031084-adit-latihan2`
+* Latihan 3 : Percabangan If Else `231031084-adit-latihan3`
+* Latihan 4 : Percabangan If Else `231031084-adit-latihan4`
 
 
 
